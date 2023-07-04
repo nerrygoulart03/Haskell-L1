@@ -1,8 +1,8 @@
 <!-- Replace the placeholders with your own content -->
 
-# Hi there 👋
+# Hi
 
-![Banner](https://your-image-url.com)
+![Banner](https://i.pinimg.com/originals/01/e3/de/01e3ded4deb64c3c264032c64a1d9b10.gif)
 
 I'm [Your Name](https://your-website-url.com), a passionate developer from [Your Location](https://your-location-url.com). I love working on projects that involve [Your Interests](https://your-interests-url.com). 
 
