@@ -4,13 +4,13 @@
 
 ![Banner](https://i.pinimg.com/originals/01/e3/de/01e3ded4deb64c3c264032c64a1d9b10.gif)
 
-I'm [Your Name](https://your-website-url.com), a passionate developer from [Your Location](https://your-location-url.com). I love working on projects that involve [Your Interests](https://your-interests-url.com). 
+I'm [Nerry Goulart](https://your-website-url.com), a passionate developer from Timor-Leste That Studying in Braga. I love working on projects that involve [C & python]
 
-- 🔭 I’m currently working on [Current Project](https://current-project-url.com)
-- 🌱 I’m currently learning [Technologies or Skills](https://learning-url.com)
-- 💬 Ask me about [Topics you are knowledgeable in](https://knowledge-url.com)
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
-- ⚡ Fun fact: [Interesting fact about you]
+- 🔭 I’m currently Studying: Computer Engineering
+- 🌱 I’m currently learning: Java
+- 💬 Ask me about: Music
+- 📫 How to reach me: nerrygoulart03@gmail.com
+- ⚡ Fun fact: i'm very good at guitar and piano
 
 ## Skills and Technologies
 
